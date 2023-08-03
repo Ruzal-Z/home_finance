@@ -10,7 +10,7 @@ Copy code
 pip install tkinter pillow
 Скачайте исходный код из репозитория проекта.
 ```
-git clone git@github.com:Ruzal-Z/homefinanse.git
+git clone git@github.com:Ruzal-Z/home_finance.git
 ```
 Поместите все изображения из папки static/media в ту же директорию, что и код приложения.
 Запустите приложение, выполнив команду:

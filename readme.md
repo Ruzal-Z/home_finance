@@ -26,8 +26,8 @@ python filename.py
 Удаление выбранных записей.
 Поиск записей по наименованию.
 ## Стек технологий:
-Python
-tkinter (для создания GUI)
-SQLite (для хранения данных)
+Python  
+tkinter (для создания GUI)  
+SQLite (для хранения данных)  
 ## Автор:
 Рузал Закиров [GitHub](https://github.com/Ruzal-Z/)
